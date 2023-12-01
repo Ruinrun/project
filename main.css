@@ -1,0 +1,29 @@
+/*Final Css */
+html {
+    background-color: rgb(100, 200, 150);
+}
+
+h1 {
+    margin-left: 26%;
+    margin-right: 30%;
+}
+
+table {
+    width: 600px;
+    border-collapse: collapse;
+    font-family: Arial, sans-serif;
+    margin: auto;
+  }
+  th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+    align-items: center;
+  }
+  th {
+    background-color: lightgreen;
+    font-weight: bold;
+  }
+  tr {
+    background-color: lightgreen;
+  }
